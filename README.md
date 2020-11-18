@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="VIDMORE Spotify Playing" width="350" />](https://open.spotify.com/user/vidmore)
+[![Spotify](https://vidmore.vercel.app/spotify)](https://open.spotify.com/user/vidmore)
 
 ### Connect with me:
 
