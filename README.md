@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotfy-now-playing.vidmore.vercel.app/api/spotify)](https://open.spotify.com/user/vidmore)
+[![Spotify](https://vidmore.vercel.app/api/spotify)](https://open.spotify.com/user/vidmore)
 
 ### Connect with me:
 
