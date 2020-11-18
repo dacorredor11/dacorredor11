@@ -19,7 +19,7 @@
 [<img align="left" alt="VIDMORE | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][podcast]
-<a href="mailto:vidmore8@gmail.com"><img align="left" alt="VIDMORE | E-Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" /></a>
+<a href="mailto:vidmore8@gmail.com"><img align="left" alt="VIDMORE | E-Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/gmail.svg" /></a>
 
 <br />
 
