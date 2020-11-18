@@ -1,7 +1,5 @@
 ### Hi there, I'm David Corredor - aka [MAGO][twitter] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://www.linkedin.com/in/davidcorredor11/)
-
 ## I'm a Passionate Developer, Magician and Podcaster!!
 
 - 🔭 I'm currentry working in [Nelkir][nelkir] and Treen APP!
