@@ -3,6 +3,7 @@
 ## I'm a Passionate Developer, Magician and Podcaster!!
 
 - 🔭 I'm currentry working in [Nelkir][nelkir] and Treen APP!
+- 🎧 Podcaster at [Perreo & Code][podcast]
 - 🌱 I’m currently learning Jenkins, Golang and AWS
 - 👯 I’m looking to collaborate in Open Source projects
 - 🥅 2020 Goals: Launch Nelkir and Learn AWS
