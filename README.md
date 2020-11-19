@@ -2,7 +2,7 @@
 
 ## I'm a Passionate Developer, Magician and Podcaster!!
 
-- 🔭 I'm currentry working in [Nelkir][nelkir] and Treen APP!
+- 🔭 I'm currentry working in [Nelkir][nelkir] and [Treen APP][treen]!
 - 🎧 Podcaster at [Perreo & Code][podcast]
 - 🌱 I’m currently learning Jenkins, Golang and AWS
 - 👯 I’m looking to collaborate in Open Source projects
@@ -12,7 +12,6 @@
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.vidmore.vercel.app/api/spotify)](https://open.spotify.com/user/vidmore)
-
 ### Connect with me:
 
 [<img align="left" alt="VIDMORE | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -64,3 +63,4 @@
 [linkedin]: https://www.linkedin.com/in/davidcorredor11/
 [podcast]: https://open.spotify.com/show/3K4epmZjGd60cHZtudoz3j?si=Dw3khmNnRRisr7z7WFStoQ
 [nelkir]: https://nelkir.com
+[treen]: https://github.com/Treen-Project
