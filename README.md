@@ -42,19 +42,6 @@
 </details>
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#3690](https://github.com/scrapy/scrapy/issues/3690) in [scrapy/scrapy](https://github.com/scrapy/scrapy)
-2. 🎉 Merged PR [#4](https://github.com/VIDMORE/Treellenge/pull/4) in [VIDMORE/Treellenge](https://github.com/VIDMORE/Treellenge)
-3. 🎉 Merged PR [#16](https://github.com/kajoomba99/AirBnB_clone_v3/pull/16) in [kajoomba99/AirBnB_clone_v3](https://github.com/kajoomba99/AirBnB_clone_v3)
-4. 💪 Opened PR [#16](https://github.com/kajoomba99/AirBnB_clone_v3/pull/16) in [kajoomba99/AirBnB_clone_v3](https://github.com/kajoomba99/AirBnB_clone_v3)
-5. 🎉 Merged PR [#15](https://github.com/kajoomba99/AirBnB_clone_v3/pull/15) in [kajoomba99/AirBnB_clone_v3](https://github.com/kajoomba99/AirBnB_clone_v3)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="VIDMORE's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VIDMORE&show_icons=true&hide_border=true" />
