@@ -27,17 +27,19 @@
 </details>
 
 ---
+<details>
+  <summary>🔊 Latest Podcast Episodes:</summary>
 
-### 🔊 Latest Podcast Episodes
+  <!-- SPOTIFY:START -->
 
-<!-- SPOTIFY:START -->
-
-- [Episodio 05 - Como ser una buena presa para un caza talento.](https://open.spotify.com/episode/3D2a6wJknDPC4kIUpz3Tfj?si=hv1drzyLTC6N4aaw6WkDsQ)
-- [Episodio 04 - Comunidades, Networking y empanadas.](https://open.spotify.com/episode/43958TU5As4rf6JMIAHxmG?si=nnUeS4whTEO_mNebTM6i9g)
-- [Episodio 03 - Porqué deberías leer código.](https://open.spotify.com/episode/3qgEz8Klk07rsgKDn1jYmL?si=QB-0LWp6QGGXX_KfEAKZaw)
-- [Episodio 02 - Programando y sobreviviendo en el intento.](https://open.spotify.com/episode/4MoFSlFsepH3XD6Bno41ZL?si=JQ7T4mp7RiedW5Pp6mU1pA)
-- [Episodio 01 - El mundo del desarrollo Web ¿Que camino elegir?](https://open.spotify.com/episode/1WWLowcyHhdAn7FwuoB9BV?si=bisxwbttRuCcOgoYxih9fQ)
-<!-- SPOTIFY:END -->
+  - [Episodio 05 - Como ser una buena presa para un caza talento.](https://open.spotify.com/episode/3D2a6wJknDPC4kIUpz3Tfj?si=hv1drzyLTC6N4aaw6WkDsQ)
+  - [Episodio 04 - Comunidades, Networking y empanadas.](https://open.spotify.com/episode/43958TU5As4rf6JMIAHxmG?si=nnUeS4whTEO_mNebTM6i9g)
+  - [Episodio 03 - Porqué deberías leer código.](https://open.spotify.com/episode/3qgEz8Klk07rsgKDn1jYmL?si=QB-0LWp6QGGXX_KfEAKZaw)
+  - [Episodio 02 - Programando y sobreviviendo en el intento.](https://open.spotify.com/episode/4MoFSlFsepH3XD6Bno41ZL?si=JQ7T4mp7RiedW5Pp6mU1pA)
+  - [Episodio 01 - El mundo del desarrollo Web ¿Que camino elegir?](https://open.spotify.com/episode/1WWLowcyHhdAn7FwuoB9BV?si=bisxwbttRuCcOgoYxih9fQ)
+  <!-- SPOTIFY:END -->
+  
+</details>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
