@@ -13,6 +13,7 @@
 
 [![Spotify](https://novatorem.vidmore.vercel.app/api/spotify)](https://open.spotify.com/user/vidmore)
 
+---
 
 <details>
   <summary>:zap:Languages and Tools:</summary>
@@ -26,7 +27,6 @@
 
 </details>
 
----
 <details>
   <summary>🔊 Latest Podcast Episodes:</summary>
 
