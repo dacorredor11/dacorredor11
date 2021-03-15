@@ -45,7 +45,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="VIDMORE's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VIDMORE&show_icons=true&hide_border=true" />
+  <img align="left" alt="dacorredor11's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dacorredor11&show_icons=true&hide_border=true" />
 
 </details>
 
