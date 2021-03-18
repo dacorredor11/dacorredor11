@@ -6,7 +6,7 @@
 - 🎧 Podcaster at [Perreo & Code][podcast]
 - 🌱 I’m currently learning Jenkins, Golang and AWS
 - 👯 I’m looking to collaborate in Open Source projects
-- 🥅 2020 Goals: Launch Nelkir and Learn AWS
+- 🥅 2021 Goals: Launch Nelkir and Learn AWS
 - ⚡ Fun fact: Im a magician and i´m learning to play the guitar
 
 ### Spotify Playing 🎧
