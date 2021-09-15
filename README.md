@@ -2,11 +2,11 @@
 
 ## I'm a Passionate Developer, Magician and Podcaster!!
 
-- 🔭 I'm currentry working in [Nelkir][nelkir] and [Treen APP][treen]!
+- 🔭 I'm currentry working as a Data Engineer!
 - 🎧 Podcaster at [Perreo & Code][podcast]
-- 🌱 I’m currently learning Jenkins, Golang and AWS
+- 🌱 I’m currently learning GCP and Spark
 - 👯 I’m looking to collaborate in Open Source projects
-- 🥅 2021 Goals: Launch Nelkir and Learn AWS
+- 🥅 2021 Goals: Become a Data Engineer
 - ⚡ Fun fact: Im a magician and i´m learning to play the guitar
 
 ### Spotify Playing 🎧
