@@ -42,12 +42,6 @@
   
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="dacorredor11's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dacorredor11&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/dacorredor11
 [linkedin]: https://www.linkedin.com/in/davidcorredor11/
