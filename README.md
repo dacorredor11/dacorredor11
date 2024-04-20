@@ -2,12 +2,11 @@
 
 ## I'm a Passionate Developer, Magician and Podcaster!!
 
-- 🔭 I'm currentry working as a Data Engineer!
+- 🔭 I'm currently working as a Software Engineer!
 - 🎧 Podcaster at [Perreo & Code][podcast]
-- 🌱 I’m currently learning GCP and Spark
-- 👯 I’m looking to collaborate in Open Source projects
-- 🥅 2021 Goals: Become a Data Engineer
-- ⚡ Fun fact: Im a magician and i´m learning to play the guitar
+- 🌱 I’m currently learning Game Development and AWS
+- 🥅 2024 Goals: Become a Game Developer
+- ⚡ Fun fact: I'm a magician and I'm learning Portuguese
 
 ### Spotify Playing 🎧
 
