@@ -26,10 +26,3 @@
   <!-- SPOTIFY:END -->
   
 </details>
-
-
-[twitter]: https://twitter.com/dacorredor11
-[linkedin]: https://www.linkedin.com/in/davidcorredor11/
-[podcast]: https://open.spotify.com/show/3K4epmZjGd60cHZtudoz3j?si=Dw3khmNnRRisr7z7WFStoQ
-[nelkir]: https://nelkir.com
-[treen]: https://github.com/Treen-Project
