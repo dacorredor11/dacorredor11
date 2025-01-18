@@ -4,8 +4,7 @@
 
 - 🔭 I'm currently working as a Software Engineer!
 - 🎧 Podcaster at [Perreo & Code][podcast]
-- 🌱 I’m currently learning Game Development and AWS
-- 🥅 2024 Goals: Become a Game Developer
+- 🌱 I’m currently learning AI and AWS
 - ⚡ Fun fact: I'm a magician and I'm learning Portuguese
 
 ### Spotify Playing 🎧
