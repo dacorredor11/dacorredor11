@@ -1,9 +1,8 @@
-### Hi there, I'm David Corredor - aka [MAGO][twitter] 👋
+### Hi there, I'm David Corredor - aka MAGO 👋
 
-## I'm a Passionate Developer, Magician and Podcaster!!
+## I'm a Passionate Developer, Magician and Karting Driver!!
 
 - 🔭 I'm currently working as a Software Engineer!
-- 🎧 Podcaster at [Perreo & Code][podcast]
 - 🌱 I’m currently learning AI and AWS
 - ⚡ Fun fact: I'm a magician and I'm learning Portuguese
 
